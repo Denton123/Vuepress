@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{61:function(t,e,s){"use strict";s.r(e);var n={},i=s(0),a=Object(i.a)(n,function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h2",[this._v("我是demo2")]),e("img",{attrs:{src:this.$withBase("/1.jpg"),alt:""}})])},[],!1,null,null,null);e.default=a.exports}}]);
